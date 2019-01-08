@@ -1,0 +1,268 @@
+Armor:
+  minimum-complexity: 6
+  maximum-complexity: 8
+  Helmets:
+    1:
+      a:
+        Item: DIAMOND_HELMET
+        Enchants: DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_HELMET
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+    2:
+      a:
+        Item: DIAMOND_HELMET
+        Enchants: PROTECTION_ENVIRONMENTAL-1;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_HELMET
+        Enchants: PROTECTION_ENVIRONMENTAL-4;DURABILITY-2
+        Item-Name: none
+    3:
+      a:
+        Item: DIAMOND_HELMET
+        Enchants: PROTECTION_ENVIRONMENTAL-2;DURABILITY-1
+        Item-Name: none
+    4:
+      a:
+        Item: DIAMOND_HELMET
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_HELMET
+        Enchants: PROTECTION_ENVIRONMENTAL-4
+        Item-Name: none
+  Chestplates:
+    1:
+      a:
+        Item: DIAMOND_CHESTPLATE
+        Enchants: DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_CHESTPLATE
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+    2:
+      a:
+        Item: DIAMOND_CHESTPLATE
+        Enchants: PROTECTION_ENVIRONMENTAL-1;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_CHESTPLATE
+        Enchants: PROTECTION_ENVIRONMENTAL-4;DURABILITY-2
+        Item-Name: none
+    3:
+      a:
+        Item: DIAMOND_CHESTPLATE
+        Enchants: PROTECTION_ENVIRONMENTAL-2;DURABILITY-1
+        Item-Name: none
+    4:
+      a:
+        Item: DIAMOND_CHESTPLATE
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_CHESTPLATE
+        Enchants: PROTECTION_ENVIRONMENTAL-4
+        Item-Name: none
+  Leggings:
+    1:
+      a:
+        Item: DIAMOND_LEGGINGS
+        Enchants: DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_LEGGINGS
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+    2:
+      a:
+        Item: DIAMOND_LEGGINGS
+        Enchants: PROTECTION_ENVIRONMENTAL-1;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_LEGGINGS
+        Enchants: PROTECTION_ENVIRONMENTAL-4;DURABILITY-2
+        Item-Name: none
+    3:
+      a:
+        Item: DIAMOND_LEGGINGS
+        Enchants: PROTECTION_ENVIRONMENTAL-2;DURABILITY-1
+        Item-Name: none
+    4:
+      a:
+        Item: DIAMOND_LEGGINGS
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_LEGGINGS
+        Enchants: PROTECTION_ENVIRONMENTAL-4
+        Item-Name: none
+  Boots:
+    1:
+      a:
+        Item: DIAMOND_BOOTS
+        Enchants: DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_BOOTS
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+    2:
+      a:
+        Item: DIAMOND_BOOTS
+        Enchants: PROTECTION_ENVIRONMENTAL-1;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: IRON_BOOTS
+        Enchants: PROTECTION_ENVIRONMENTAL-4;DURABILITY-2
+        Item-Name: none
+    3:
+      a:
+        Item: DIAMOND_BOOTS
+        Enchants: PROTECTION_ENVIRONMENTAL-2;DURABILITY-1
+        Item-Name: none
+    4:
+      a:
+        Item: DIAMOND_BOOTS
+        Enchants: PROTECTION_ENVIRONMENTAL-3;DURABILITY-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_BOOTS
+        Enchants: PROTECTION_ENVIRONMENTAL-4
+        Item-Name: none
+Weapons:
+  Swords:
+    0:
+      a:
+        Item: IRON_SWORD
+        Enchants: DAMAGE_ALL-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_SWORD
+        Enchants: none
+        Item-Name: none
+    1:
+      a:
+        Item: IRON_SWORD
+        Enchants: DAMAGE_ALL-2
+        Item-Name: none
+      b:
+        Item: DIAMOND_SWORD
+        Enchants: DAMAGE_ALL-1
+        Item-Name: none
+    2:
+      a:
+        Item: DIAMOND_SWORD
+        Enchants: DAMAGE_ALL-2;FIRE_ASPECT-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_SWORD
+        Enchants: DAMAGE_ALL-3
+        Item-Name: none
+    3:
+      a:
+        Item: DIAMOND_SWORD
+        Enchants: DAMAGE_ALL-3;FIRE_ASPECT-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_SWORD
+        Enchants: DAMAGE_ALL-4
+        Item-Name: none
+    4:
+      a:
+        Item: DIAMOND_SWORD
+        Enchants: DAMAGE_ALL-4;FIRE_ASPECT-1
+        Item-Name: none
+      b:
+        Item: DIAMOND_SWORD
+        Enchants: DAMAGE_ALL-5
+        Item-Name: none
+  Bows:
+    0:
+      a:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-1
+        Item-Name: none
+      b:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-1;DURABILITY-1
+        Item-Name: none
+    1:
+      a:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-2
+        Item-Name: none
+      b:
+        Item: BOW
+        Enchants: ARROW_INFINITE-1;
+        Item-Name: none
+    2:
+      a:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-2;ARROW_FIRE-1
+        Item-Name: none
+      b:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-3
+        Item-Name: none
+    3:
+      a:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-3;ARROW_FIRE-1
+        Item-Name: none
+      b:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-4
+        Item-Name: none
+    4:
+      a:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-4;ARROW_FIRE-1
+        Item-Name: none
+      b:
+        Item: BOW
+        Enchants: ARROW_DAMAGE-5
+        Item-Name: none
+Healing:
+  1:
+    Golden-Heads: 3
+    Golden-Apples: 6
+  2:
+    Golden-Heads: 2
+    Golden-Apples: 8
+  3:
+    Golden-Heads: 1
+    Golden-Apples: 10
+  4:
+    Golden-Heads: 0
+    Golden-Apples: 12
+  5:
+    Golden-Heads: 4
+    Golden-Apples: 4
+  6:
+    Golden-Heads: 5
+    Golden-Apples: 2
+  7:
+    Golden-Heads: 6
+    Golden-Apples: 0
+Potions:
+  Fire-Resistance:
+    Chance: 20.0
+  Swiftness:
+    Chance: 20.0
+Cobweb:
+  Chance: 33.0
+  Amount-Min: 6
+  Amount-Max: 18
+
+Miscellanous:
+  1:
+    Item: POTION
+    Item-Name: '&cPotion of Poison (0:45)'
+    Chance: 1
+    Durability: 16388
+    Amount-Min: 1
+    Amount-MaX: 1

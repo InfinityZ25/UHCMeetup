@@ -1,0 +1,16 @@
+name: UHC-Meetup
+version: 0.0.1
+author: InfinityZ
+main: me.infinity.minigame.meetup.Meetup
+
+commands:
+  meetup:
+  build:
+  kit:
+  editkit:
+  savekit:
+  stats:
+  vote:
+  start:
+  reroll:
+  closeinv:

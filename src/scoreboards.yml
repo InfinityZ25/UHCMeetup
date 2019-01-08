@@ -1,0 +1,44 @@
+Scoreboards:
+  waiting-scoreboard:
+    title: '  &4&lUHC Meetup  '
+    use-tab-health: true
+    use-name-health: true
+    lines:
+      - "&7Players: &f<online>"
+      - "&1 "
+      - "&7Waiting<animated_dots>"
+      - "&l   "
+      - " &4noobsters.net "
+  edit-kit-scoreboard:
+    title: '  &4&lUHC Meetup  '
+    use-tab-health: true
+    use-name-health: true
+    lines:
+      - "&7Kit editing: "
+      - "&l "
+      - "Move around the items on your inventory to"
+      - "edit your kit, once done editing your kit, "
+      - "use &c/kit save &f to save all changes. "
+      - "&l   "
+      - " &4noobsters.net "
+  starting-scoreboard:
+    title: '  &4&lUHC Meetup  '
+    use-tab-health: true
+    use-name-health: true
+    lines:
+      - "&7Players: &f<online>"
+      - "&1 "
+      - "&7Starting in &f<secondsToStart>"
+      - "&1  "
+      - " &4noobsters.net "
+  ingame-scoreboard:
+    title: '  &4&lUHC Meetup  '
+    use-tab-health: true
+    use-name-health: true
+    lines:
+      - "&7Players: &f<playersAlive>"
+      - "&1 "
+      - "&7Time: &f<gameTimer>"
+      - "&7Kills: &f<playerKills>"
+      - "&1  "
+      - " &4noobsters.net "
